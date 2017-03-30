@@ -1,1 +1,1 @@
-# May2016_TranscriptomeAnalysisDeNovoMotifsPotatoGenome_Galvez
+# May_2016_TranscriptomeAnalysisDeNovoMotifsPotatoGenome_Galvez
